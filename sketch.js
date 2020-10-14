@@ -29,9 +29,9 @@ function setup() {
 		}
 
 		var options2={
-			isStatic:true,
+			isStatic:false,
 			
-			density:1.2
+			density:15
 
 			
 			}
